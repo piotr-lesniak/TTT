@@ -14,7 +14,7 @@ public class TicTacToe extends JFrame {
     }
 
     public TicTacToe(){
-        super("TicTacToasde");
+        super("TicTacToasasdde");
         setSize(400,400);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setResizable(false);
